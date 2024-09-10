@@ -1,5 +1,5 @@
 ## Hi there 👋
--👀 Looking forward for some interesting positions or projects
+-👀 Looking forward for some interesting job positions or projects
 
 -🔭 I’m currently looking for some work or collaborations in web development
 
