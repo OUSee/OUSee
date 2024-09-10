@@ -1,8 +1,8 @@
 ## Hi there 👋
-👀 Looking forward for some interesting positions or projects
-🔭 I’m currently looking for some work or collaborations in web development
-🌱 I’m currently learning AI and machine learning and also a game development
-📫 How to reach me: 
+-👀 Looking forward for some interesting positions or projects
+-🔭 I’m currently looking for some work or collaborations in web development
+-🌱 I’m currently learning AI and machine learning and also a game development
+-📫 How to reach me: 
     telegram: https://t.me/lucky1boy
     mail: newerworrying@gmail.com
     
