@@ -1,7 +1,7 @@
 ## Hi there 👋
--👀 Looking forward for some interesting job positions or projects
+-👀 Ready to discuss for some interesting job positions or projects
 
--🔭 I’m currently looking for some work or collaborations in web development
+-🔭 I’m currently working on a big project but open to invites or collaborations in web development
 
 -🌱 I’m currently learning AI and machine learning and also a game development
 
